@@ -1,0 +1,9 @@
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\bin\Debug\SQLFileLoader.exe.config
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\bin\Debug\SQLFileLoader.exe
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\bin\Debug\SQLFileLoader.pdb
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.Form1.resources
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.Properties.Resources.resources
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.csproj.GenerateResource.cache
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.csproj.CoreCompileInputs.cache
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.exe
+C:\Users\maraza\source\repos\SQLFileLoader\SQLFileLoader\obj\Debug\SQLFileLoader.pdb
